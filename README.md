@@ -25,7 +25,7 @@ This Assignment is run by a single notebook file ```main.ipynb``` in the main fo
 
 * Clone project using command:
 ```angular2html
-https://github.com/syedjameel/Dynamic-Models-Stanford-Manipulator.git
+https://github.com/syedjameel/SPA-Assignment-1.git
 ```
 
 ### How to Run
