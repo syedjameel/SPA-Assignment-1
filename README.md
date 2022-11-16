@@ -3,7 +3,7 @@
 
 * Assignment Details:
 ```angular2html
-https://github.com/syedjameel/SPA-Assignment-1/blob/65e3f03de56de669f258b8675a223c94bd38dff8/SPA_IU_home%20assignment%201.pdf```
+https://github.com/syedjameel/SPA-Assignment-1/blob/65e3f03de56de669f258b8675a223c94bd38dff8/SPA_IU_home%20assignment%201.pdf
 ```
 
 ## Task 1
